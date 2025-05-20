@@ -1,4 +1,3 @@
 # Sorting_Visualizer
 
-This project was made to help people learn about sorting techniques with visualization.
-
+This project was created to assist people in understanding sorting algorithms through visual demonstrations.
